@@ -1,0 +1,77 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coffee2"
+    tools:context=".menu">
+    <TextView
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="120dp"
+        android:layout_weight="1"
+        android:text="MENU"
+        android:textColor="#FAAD06"
+        android:textSize="45dp"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/imagecoffee"
+        android:layout_width="420dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="100dp"
+        android:layout_weight="1"
+        android:layout_marginRight="0dp"
+        android:background="@drawable/menucoffee" />
+    <Button
+        android:text="Coffee"
+        android:id="@+id/coffee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:background="#FFC107"
+        android:layout_marginTop="300dp"/>
+
+    <ImageView
+        android:id="@+id/imagebakery"
+        android:layout_width="420dp"
+        android:layout_height="190dp"
+        android:layout_marginTop="310dp"
+        android:layout_weight="1"
+        android:layout_marginRight="15dp"
+
+        android:background="@drawable/cheesecake" />
+    <Button
+        android:text="Bakery"
+        android:id="@+id/bakery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:textColor="#ffffff"
+        android:background="#F36E61"/>
+    <Button
+        android:text="Cart"
+        android:id="@+id/Cart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="520dp"
+        android:textColor="#FFFFFF"
+        android:background="#8C65DD"/>
+    <Button
+        android:text="Chart"
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:textColor="#000000"
+        android:background="#FCFCFC"/>
+<!--    <Button-->
+<!--        android:text="show"-->
+<!--        android:id="@+id/show"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="580dp"-->
+<!--        android:textColor="#000000"-->
+<!--        android:background="#FF9F9F"/>-->
+</FrameLayout>
