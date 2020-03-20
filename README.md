@@ -15,6 +15,15 @@
 
 #เทคนิคที่ใช้พัฒนา
 
+1.) fragment
+
+2.) recycler view 
+
+3.) facebook authen
+
+4.) noSQL (realtime database)
+
+5.) Dialog
 
 #ภาพหน้าจอ
 
