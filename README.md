@@ -41,7 +41,7 @@
 
 ![alt text](https://i.postimg.cc/hPphjPSL/Dialog2.jpg)
 
-![alt text](https://i.postimg.cc/642xPV3g/Recycle-View2.jpg)
+![alt text](https://i.postimg.cc/C5JMzmVh/Recycle-View2.jpg)
 
 ![alt text](https://i.postimg.cc/Dw00bkZt/Detail2.jpg)
 
